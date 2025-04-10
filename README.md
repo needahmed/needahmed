@@ -120,4 +120,3 @@ I'm always excited to connect on new projects, potential collaborations, or just
 
 ---
 
-*Made with Next.js and React*
