@@ -1,122 +1,111 @@
-# Ahmed Pervez | Senior Software Engineer
+<!--
+  GitHub profile README — how to use this file
+  --------------------------------------------
+  1. Create a public repository named EXACTLY the same as your GitHub username (e.g. needahmed/needahmed).
+  2. Add this file as README.md in the repository root.
+  3. Replace YOUR_PORTFOLIO_URL below with your live site (Vercel, custom domain, etc.) once deployed.
+  4. Optional: remove or tweak GitHub Stats cards if you prefer a minimal profile.
+-->
 
-Hello, I'm **Ahmed Pervez**, a passionate Senior Software Engineer specializing in full-stack development. I build responsive, engaging web applications that solve complex problems and elevate user experiences.
+<div align="center">
 
----
+# Ahmed Pervez
 
-## About Me
+### Senior Full-Stack Engineer
 
-- **Name:** Ahmed Pervez
-- **Title:** Senior Software Engineer & Full Stack Developer
-- **Location:** Islamabad, Pakistan
-- **Email:** [needahmedwork@gmail.com](mailto:needahmedwork@gmail.com)
-- **Phone:** +92 333 5394643
+**Fintech · Payments · Production APIs · React / Next.js**
 
-I discovered my passion for web development during my Computer Science studies at Bahria University. With a keen eye for detail and a love for problem-solving, I continuously strive to learn and explore new technologies and paradigms, from Web3 to AI to classical debates in philosophy and history.
+Building global payment products—multi-currency flows, invoicing, settlement, and the APIs and data models behind them.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youneedahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youneedahmed/)
+[![GitHub](https://img.shields.io/badge/GitHub-needahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/needahmed)
+[![X](https://img.shields.io/badge/X-@zedgaghost-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zedgaghost)
+[![Email](https://img.shields.io/badge/Email-needahmedwork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:needahmedwork@gmail.com)
 
-## Technologies & Skills
-
-### Frontend
-- **React** - 95%
-- **Next.js** - 90%
-- **TypeScript** - 85%
-- **JavaScript** - 95%
-- **HTML/CSS** - 90%
-- **Tailwind CSS** - 90%
-
-### Backend
-- **Node.js** - 85%
-- **Express** - 80%
-- **Prisma** - 85%
-- **MySQL** - 80%
-- **PostgreSQL** - 75%
-- **MongoDB** - 80%
-
-### Blockchain Development
-- **Solidity** - 75%
-- **Rust** - 65%
-- **ether.js** - 80%
-- **web3.js** - 75%
-- **Hardhat** - 70%
-
-### Other Skills
-- **Python** - 70%
-- **Machine Learning** - 60%
-- **C/C++** - 65%
-- **Java** - 60%
-- **Git** - 85%
-- **XML** - 75%
+</div>
 
 ---
 
-## Projects
+## About
 
-- **[Kupi Dashboard](#)**  
-  A comprehensive dashboard application built with Next.js, React, and modern web technologies. It includes interactive data visualizations, calendar integrations, and a responsive design.
+I turn ambiguous requirements into **designs and code that survive real users and real money**. I care about **system design**, **provider integrations**, and **secure flows** where polished UX and disciplined backend engineering move together.
 
-- **[Kupi Chatbot](#)**  
-  An intelligent chatbot solution integrating Twilio WhatsApp API, leveraging serverless architecture via AWS Lambda and API Gateway, with OpenAI-powered NLP capabilities.
-
-- **[SkillSprint](#)**  
-  A platform co-founded to provide personalized career recommendations by utilizing AI and tailored learning paths.
-
-- **[AI SaaS](#)**  
-  An all-in-one AI SaaS project that generates text, images, music, and videos while handling subscription management with Stripe.
-
-- **[Full Stack E-Commerce Store](#)**  
-  A scalable e-commerce platform built with Next.js, Prisma, and robust database management practices to deliver a seamless shopping experience.
-
-- **[BaytOrganic E-Commerce with CMS](#)**  
-  An organic products e-commerce platform featuring a custom CMS, empowering users to manage products and content effortlessly.
+- **Education:** BSc Computer Science, Bahria University, Islamabad  
+- **Based in:** Islamabad, Pakistan (remote-friendly)  
+- **Outside of code:** podcasts and debates; reading across history, philosophy, and religion—same curiosity I bring to engineering.
 
 ---
 
-## Professional Experience
+## Right now
 
-**Senior Software Engineer**  
-*VQode | Aug 2024 - Present*  
-- Lead full-stack development initiatives using Next.js, React, and Node.js.
-- Architect and optimize database systems for scalability and performance.
-- Oversee cross-functional collaboration to create innovative web solutions.
-
-**Full Stack Developer**  
-*Virtury Cloud | Aug 2021 - May 2024*  
-- Developed the company's new website using a full-stack approach (Next.js, React, PostgreSQL).
-- Enhanced API functionality and streamlined database workflows for robustness and speed.
+| | |
+| :--- | :--- |
+| **Role** | Senior Full-Stack Engineer @ **[Sorbet](https://mysorbet.io/)** — Web3-aligned payments: invoicing, settlement, multi-currency, and the APIs behind them |
+| **Stack** | NestJS, PostgreSQL, Prisma, React, Next.js, TypeScript, Tailwind CSS |
+| **Themes** | Payment rails (e.g. Bridge, Due Network), webhooks, signature verification, KYC/TOS, relational modeling at scale |
 
 ---
 
-## Education & Certifications
+## Tech I use often
 
-- **Bachelor of Computer Science**  
-  Bahria University, Islamabad
+<p align="left">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-- **Certifications:**
-  - Web Development Bootcamp – Udemy
-  - Ethereum Development Bootcamp – Alchemy University
-  - Solana Development Bootcamp – Udemy
-
----
-
-## Interests
-
-- **Tech:** Exploring Web3, AI, and innovative software patterns
-- **Learning:** Deep dives into history, philosophy, and religion
-- **Personal:** Engaging with podcasts, debates, and continuous self-improvement
-
----
-
-## Connect with Me
-
-I'm always excited to connect on new projects, potential collaborations, or just to chat about technology. Feel free to reach out!
-
-- **Email:** [needahmedwork@gmail.com](mailto:needahmedwork@gmail.com)
-- **Phone:** +92 333 5394643
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- [Download My CV](#)
+_Also:_ Solidity, Rust (Solana), ethers.js, web3.js, Hardhat, OpenAI / LangChain, serverless (AWS Lambda), Stripe, and more—see pinned repos and this portfolio’s **Skills** section for depth.
 
 ---
 
+## Featured work
+
+| Project | What it is | Links |
+| :--- | :--- | :--- |
+| **Sorbet** | Global payments for businesses—invoicing, multi-currency accounts, settlement; production NestJS API, Prisma/Postgres, provider integrations | [mysorbet.io](https://mysorbet.io/) |
+| **SkillSprint** | AI-assisted career paths and learning (co-founded) | [Live](https://skill-sprint-delta.vercel.app/) · [Code](https://github.com/needahmed/SkillSprint) |
+| **BaytOrganic** | Organic e-commerce with custom CMS | [baytorganic.com](https://baytorganic.com) · [Code](https://github.com/needahmed/bayt-organic) |
+| **E-commerce store** | Full-stack Next.js store, Prisma, MySQL | [Code](https://github.com/needahmed/ecommerce-store) |
+| **Kupi** | Dashboard + WhatsApp chatbot (Twilio, AWS, OpenAI)—demos on product site | [kupi.africa](https://kupi.africa) |
+
+_Portfolio (Next.js 15, React 19, Framer Motion): deploy and link **YOUR_PORTFOLIO_URL** here, or pin the repo on your profile._
+
+---
+
+## Learning & credentials
+
+- Web Development Bootcamp — Udemy  
+- Ethereum Development — Alchemy University  
+- Solana Development — Udemy  
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=needahmed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=needahmed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.demolab.com/?user=needahmed&theme=tokyonight&hide_border=true" />
+</p>
+
+<sub>Stats cards are served by community projects; if they don’t load, try again later or remove this section.</sub>
+
+---
+
+<div align="center">
+
+**Open to interesting conversations** about fintech, payments architecture, full-stack product work, and well-built UIs.
+
+If you’re hiring or collaborating, the fastest path is **[LinkedIn](https://www.linkedin.com/in/youneedahmed/)** or **[email](mailto:needahmedwork@gmail.com)**.
+
+</div>
